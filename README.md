@@ -85,6 +85,7 @@ Here is a list of some benchmarking tools:
 
 In addition to generic recommender systems, I decided to add a list of applications where recommendations are a core offering, specifically in the domain of media recommendations:
 
+1. [Hai] (https://h.ai) movies, books, music, restaurants recommendations.
 1. [Yeah, Nah](https://github.com/grahamjenson/yeahnah) Movie recommendations app based on [GER](https://github.com/grahamjenson/ger)
 1. [Jinni](http://www.jinni.com/) Movie recommendations site
 1. [Gyde](http://gyde.tv/) Streaming media recommendations
